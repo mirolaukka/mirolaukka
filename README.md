@@ -15,6 +15,6 @@ I'm always eager to expand my skills and explore new technologies. Currently, I'
 
 ## 📫 Let's Connect
 
-If you're interested in collaborating, discussing job opportunities, or just want to chat about penguins (I love them too!) or share your thoughts on paper straws (I don't like them), feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miro-laukka/).
+If you're interested in collaborating, discussing job opportunities, or just want to chat about penguins (I love them!) or share your thoughts on paper straws (I hate them!), feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miro-laukka/).
 
 Thanks for visiting my profile! Have a great day! 🐧
