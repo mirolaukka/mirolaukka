@@ -6,11 +6,11 @@ Welcome to my GitHub! I'm a passionate software developer with a degree in Infor
 
 ## 🚀 Recent Projects
 
+- [law-of-large-numbers](https://github.com/mirolaukka/law-of-large-numbers) - This project offers a Law of Large Numbers Simulation, visually demonstrating how the average of a large set of random observations approaches the expected value, enhancing understanding of this core concept in probability and statistics.
 - [tablipy](https://github.com/mirolaukka/tablipy) - None
 - [fractal-generators](https://github.com/mirolaukka/fractal-generators) - This project contains Python implementations of algorithms to generate two popular fractals - the Mandelbrot set and the Julia set.
 - [population-dynamics-simulation](https://github.com/mirolaukka/population-dynamics-simulation) - Predator-Prey Ecosystem Simulation, where Python is used to model and visualize the population dynamics of prey and predator populations over time with adjustable parameters.
 - [sir-model-simulation](https://github.com/mirolaukka/sir-model-simulation) - Epidemic Spreading Simulation using the SIR model, allowing users to visualize the spread of disease and understand its dynamics with adjustable parameters.
-- [subreddit-shortcut-firefox](https://github.com/mirolaukka/subreddit-shortcut-firefox) - Subreddit Redirect Shortcut is a lightweight Firefox extension that automatically redirects searches for specific subreddits to the corresponding subreddit page on Reddit. 
 
 
 These are just a few of my recent projects. For a complete list, please check out my [GitHub repositories](https://github.com/mirolaukka?tab=repositories).
