@@ -1,4 +1,4 @@
-# Hi there, I'm Miro Laukka 👋
+# Hi there, I'm Miro 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/miro-laukka/)
 
