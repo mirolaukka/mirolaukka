@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate software developer with a degree in Infor
 - [tablipy](https://github.com/mirolaukka/tablipy) - Tablipy package is a Python utility that allows you to work with tabular data in a flexible and user-friendly manner. It provides a convenient interface for creating, manipulating, and printing tables. 
 - [fractal-generators](https://github.com/mirolaukka/fractal-generators) - This project contains Python implementations of algorithms to generate two popular fractals - the Mandelbrot set and the Julia set.
 - [population-dynamics-simulation](https://github.com/mirolaukka/population-dynamics-simulation) - Predator-Prey Ecosystem Simulation, where Python is used to model and visualize the population dynamics of prey and predator populations over time with adjustable parameters.
-- [sir-model-simulation](https://github.com/mirolaukka/sir-model-simulation) - Epidemic Spreading Simulation using the SIR model, allowing users to visualize the spread of disease and understand its dynamics with adjustable parameters.
+- [epidemics-spreading-simulation](https://github.com/mirolaukka/epidemics-spreading-simulation) - Epidemic Spreading Simulation using the SIR model, allowing users to visualize the spread of disease and understand its dynamics with adjustable parameters.
 
 
 These are just a few of my recent projects. For a complete list, please check out my [GitHub repositories](https://github.com/mirolaukka?tab=repositories).
