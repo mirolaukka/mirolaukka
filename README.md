@@ -32,4 +32,4 @@ Thanks for visiting my profile! Have a great day! 🐧
 
 
  ---
-_Last updated: August 20, 2023, 22:50 by [Readme Project Updater](https://github.com/mirolaukka/readme-projects-updater)_
+<small>_Last updated: August 20, 2023, 22:51 by [Readme Project Updater](https://github.com/mirolaukka/readme-projects-updater)_</small>
