@@ -1,6 +1,5 @@
 # Hi there, I'm Miro 👋
 
-test
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/miro-laukka/)
 
