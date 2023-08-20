@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate software developer with a degree in Infor
 
 ## 🚀 Recent Projects
 
-- [readme-projects-updater](https://github.com/mirolaukka/readme-projects-updater) - None
+- [readme-projects-updater](https://github.com/mirolaukka/readme-projects-updater) - Readme Project Updater is a Python script that automates the updating of your GitHub profile README's "Recent Projects" section with your latest public repositories.
 - [planet-gravity-simulation](https://github.com/mirolaukka/planet-gravity-simulation) - Planet-Moon Gravity Simulation employs Pygame to visualize gravitational interaction, demonstrating moon orbit around a planet through calculated forces and trajectory updates, offering customizable features and educational value.
 - [epidemics-spreading-simulation](https://github.com/mirolaukka/epidemics-spreading-simulation) - Epidemic Spreading Simulation using the SIR, SEIRD and SEIRS models, allowing users to visualize the spread of disease and understand its dynamics with adjustable parameters.
 - [tablipy](https://github.com/mirolaukka/tablipy) - Tablipy package is a Python utility that allows you to work with tabular data in a flexible and user-friendly manner. It provides a convenient interface for creating, manipulating, and printing tables. 
@@ -32,4 +32,4 @@ Thanks for visiting my profile! Have a great day! 🐧
 
 
  ------
-_Last updated: August 20, 2023, 22:53 by [Readme Project Updater](https://github.com/mirolaukka/readme-projects-updater)_
+_Last updated: August 20, 2023, 22:58 by [Readme Project Updater](https://github.com/mirolaukka/readme-projects-updater)_
