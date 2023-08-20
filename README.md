@@ -1,5 +1,7 @@
 # Hi there, I'm Miro 👋
 
+test
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/miro-laukka/)
 
 Welcome to my GitHub! I'm a passionate software developer with a degree in Information and Communications Technology. I enjoy creating meaningful applications that solve real-world problems. My favorite programming languages and technologies include Python, Node.js, JavaScript, and Flask. I'm currently on the lookout for new job opportunities, so don't hesitate to reach out if you think I'd be a great fit for your team!
